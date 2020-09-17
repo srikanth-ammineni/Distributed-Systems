@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 20 02:26:41 EDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/srikanth/AndroidStudioProjects/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
