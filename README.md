@@ -5,8 +5,8 @@
 - Android Application for sending messages across 5 other android nodes using Java Socket API
 
 ### Group Messenger 1 & 2
-- A distributed peer-to-peer group messaging android app that guarantees Total-FIFO ordering. The system is 
-- Fault-tolerant and easily scalable
+- A distributed peer-to-peer group messaging android app that guarantees Total-FIFO ordering.  
+- The system is Fault-tolerant and easily scalable
 
 ### Distributed Hash Table based on Chord Protocol
 
